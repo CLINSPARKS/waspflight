@@ -14,7 +14,7 @@ See: https://github.com/CLINSPARKS/waspflight/blob/master/docs/Installation.md
 
 ## Configuration Tool
 
-To configure Waspflight you should use the raceflight-configurator GUI tool (Windows/OSX/Linux) that can be found here:
+To configure Waspflight you should use the Waspflight-configurator GUI tool (Windows/OSX/Linux) that can be found here:
 
 https://github.com/CLINSPARKS/waspflight-configurator
 
@@ -33,7 +33,7 @@ Best place to start is either the rcgroups.com or the github issue tracker:
 
 Before creating new issues please check to see if there is an existing one, search first otherwise you waste peoples time when they could be coding instead!
 
-## Raceflight Releases
+## Waspflight Releases
 https://github.com/jordancarrier/Waspflight/releases
 
 ## Open Source Notice
