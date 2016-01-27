@@ -1,4 +1,4 @@
-![Raceflight](docs/assets/raceflight/raceflight-logo.png)
+![Raceflight](http://www.fpv-passion.fr/wp-content/uploads/avatars/198/74535a3cb20658749ba76b6ae5bc439d-bpfull.jpg)
 
 Race prepared version of the cleanflight flight-controller - flight controllers are used to fly multi-rotor craft and fixed wing craft.
 
